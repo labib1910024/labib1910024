@@ -18,6 +18,5 @@ Skills:  JS / HTML / CSS / PHP & Basic Robotics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=labib1910024&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/labib1910024/contributions?format=svg&private=true)  
 
 
